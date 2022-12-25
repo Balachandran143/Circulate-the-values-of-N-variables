@@ -17,5 +17,5 @@ Using the slicing concept rotate the list
 ## Program:
 
 ## Output:
-
+!['output'](/Screenshot%20from%202022-12-25%2018-04-30.png)
 ## Result:
